@@ -1,1 +1,2 @@
 add_lunch_combo omni_kenzo-userdebug
+add_lunch_combo omni_kenzo-eng
